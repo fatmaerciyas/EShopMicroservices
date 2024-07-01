@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Services",
+    "\\Services\\Catalog",
+    "\\Services\\Catalog\\Catalog.API",
+    "\\Services\\Catalog\\Catalog.API\\Models",
+    "\\Services\\Catalog\\Catalog.API\\Products",
+    "\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct"
+  ],
+  "SelectedNode": "\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct",
+  "PreviewInSolutionExplorer": false
+}

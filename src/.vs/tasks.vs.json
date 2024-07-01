@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Catalog",
+      "appliesTo": "Services/Catalog/Catalog.API/",
+      "type": "launch"
+    }
+  ]
+}
