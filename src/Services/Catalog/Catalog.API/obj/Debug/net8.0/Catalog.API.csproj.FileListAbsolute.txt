@@ -24,3 +24,9 @@ C:\Users\Fatma\source\repos\EShopMicroservices\src\Services\Catalog\Catalog.API\
 C:\Users\Fatma\source\repos\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 C:\Users\Fatma\source\repos\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Fatma\source\repos\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+C:\Users\Fatma\Source\Repos\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\Fatma\Source\Repos\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Fatma\Source\Repos\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\Fatma\Source\Repos\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\Fatma\Source\Repos\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
+C:\Users\Fatma\Source\Repos\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog..F07FDCDC.Up2Date

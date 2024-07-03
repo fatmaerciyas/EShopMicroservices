@@ -1,8 +1,16 @@
-﻿using System;
-
-public class Class1
+﻿namespace Catalog.API.Products.CreateProduct
 {
-	public Class1()
-	{
-	}
+    public record CreateProductRequest(
+        string Name,
+        List<string> Category,
+        string Description,
+        string Image,
+        decimal Price
+    );
+
+    public record CreateProductResponse(Guid Id);
+
+    public class CreateProductEndpoint
+    {
+    }
 }
