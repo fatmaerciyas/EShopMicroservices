@@ -8,6 +8,6 @@
     "\\Services\\Catalog\\Catalog.API\\Products",
     "\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct"
   ],
-  "SelectedNode": "\\BuildingBlocks",
+  "SelectedNode": "\\Services\\Catalog\\Catalog.API\\Dockerfile",
   "PreviewInSolutionExplorer": false
 }

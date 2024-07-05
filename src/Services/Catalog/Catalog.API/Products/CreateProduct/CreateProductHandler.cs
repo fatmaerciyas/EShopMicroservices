@@ -19,11 +19,11 @@ namespace Catalog.API.Products.CreateProduct
         public async Task<CreateProductResult> Handle(CreateProductCommand command, CancellationToken cancellationToken)
         {
             //create Product entity using command object
-           
+
             var product = new Product
             {
                 Name = command.Name,
-                Category, = command.Category,
+                Category = command.Category,
                 Description = command.Description,
                 Image = command.Image,
                 Price = command.Price,
@@ -34,7 +34,7 @@ namespace Catalog.API.Products.CreateProduct
 
             //return CreateProductResult result
             return new CreateProductResult(Guid.NewGuid());
-            
+
         }
     }
 }
