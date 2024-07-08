@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C92BCB2-C323-4AA0-9183-94AF04CFCFC0}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C92BCB2-C323-4AA0-9183-94AF04CFCFC0}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C92BCB2-C323-4AA0-9183-94AF04CFCFC0}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C92BCB2-C323-4AA0-9183-94AF04CFCFC0}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDA11B4E-836B-4D10-B7BC-627909733A66}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\fatma\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,34 +54,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Catalog.API",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T07:56:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\Fatma\\Source\\Repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "ToolTip": "C:\\Users\\Fatma\\Source\\Repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-03T06:54:08.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\Fatma\\Source\\Repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\Fatma\\Source\\Repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T06:39:07.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BuildingBlocks",
+              "DocumentIndex": 7,
+              "Title": "BuildingBlocks.csproj",
               "DocumentMoniker": "C:\\Users\\Fatma\\Source\\Repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
               "ToolTip": "C:\\Users\\Fatma\\Source\\Repos\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
@@ -95,14 +112,14 @@
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "ToolTip": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACUAAAAIAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T07:16:40.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
@@ -141,13 +158,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
               "ToolTip": "C:\\Users\\Fatma\\source\\repos\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T16:24:52.671Z",
               "EditorCaption": ""
